@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Google Auto Translate",
+  "name": "<<YOUR_EXTENSION_NAME>>",
   "version": "1.1",
   "permissions": ["cookies", "webNavigation"],
   "host_permissions": [
