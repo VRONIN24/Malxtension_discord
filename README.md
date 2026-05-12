@@ -44,4 +44,4 @@ To customize the behavior of the PoC, modify the following files:
 ### 1. Set the Discord Webhook
 Open `background.js` and locate the `WEBHOOK_URL` constant. Replace the placeholder with your actual URL:
 ```javascript
-const WEBHOOK_URL = "[https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN](https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN)";
+const WEBHOOK_URL = "<YOUR_DISCORD_WEBHOOK_URL>";
